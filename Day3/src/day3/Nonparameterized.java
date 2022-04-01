@@ -6,7 +6,7 @@ public class Nonparameterized
 	int a;
 	Nonparameterized()
 	{
-		str="Soujan";
+		str="Arya";
 		a=11;
 	}
 	void display()
