@@ -14,7 +14,7 @@ public class Constructor1
 
 	public static void main(String[] args)
 	{
-		Constructor1 c=new Constructor1("Zainul");
+		Constructor1 c=new Constructor1("Constructor");
 		c.display1();
 		
 		// TODO Auto-generated method stub
