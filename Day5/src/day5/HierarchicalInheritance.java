@@ -3,11 +3,11 @@ class CellPhones
 {
 	void message()
 	{
-		System.out.println("Hi, Nikitha");
+		System.out.println("Hi");
 	}
 	void call()
 	{
-		System.out.println("I am calling Shashank");
+		System.out.println("How you doin");
 	}
 }
 class SamsungGalaxyM31 extends CellPhones
